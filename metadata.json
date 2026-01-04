@@ -1,0 +1,7 @@
+{
+  "name": "Pixel Excitebike Retro",
+  "description": "A high-octane, NES-style pixel art motocross racing game with physics, heat management, and retro synth sounds.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
